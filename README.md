@@ -2,7 +2,7 @@
 
 This repo is for use to code and debug the BIS 305 Assignment Practice - Programming Exercise 1-5.
 
-The exercise instructions in MindTap state:
+The exercise instructions state:
 ```text
 Write, compile, and test a program named Lyrics that displays at least four lines of your favorite song.
 ```
